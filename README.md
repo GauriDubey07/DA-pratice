@@ -1,1 +1,1 @@
-# DA-pratice
+This repository contains a collection of Power BI dashboards created for practice and learning purposes. The dashboards are designed to showcase various data visualization and analytical techniques, providing insights from diverse datasets across multiple domains.
